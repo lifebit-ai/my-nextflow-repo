@@ -1,1 +1,1 @@
-# my-nextflow-repo
+# Example repository for a Nextflow tutorial
